@@ -1,5 +1,5 @@
 # My minimized Symfony 4 starter kit
-[![travis](https://travis-ci.org/vikbert/sf4-starter.svg?branch=master)] 
+![travis](https://travis-ci.org/vikbert/sf4-starter.svg?branch=master)
 
 Quickstart with `Symfony 4` and my favorite development tools, such as `php-cs-fixer`, `phpstan`, `behat`.
 
