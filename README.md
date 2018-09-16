@@ -37,3 +37,21 @@ detect the code error
 ```
 vendor/bin/phpstan analyse src/
 ```
+
+## 4. Customize composer scripts
+add the following definitions to composer.json `scripts` node.
+```
+    "scripts": {
+        "test": "bin/phpunit tests/", 
+        "stan": "vendor/bin/phpstan analyse src/", 
+        "fix": "vendor/bin/php-cs-fixer fix"
+    }
+
+```
+
+then call the commands:
+```
+composer test
+composer stan
+composer fix
+```
