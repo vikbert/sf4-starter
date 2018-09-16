@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 SITE_NAME='MyApp'
 
-rm -r $SITE_NAME
+rm -rf $SITE_NAME
 composer create-project symfony/website-skeleton $SITE_NAME
 
 cd $SITE_NAME
