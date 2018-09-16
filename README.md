@@ -17,9 +17,9 @@ then open URL `http://127.0.0.8000` in browser, the symfony start page should be
 
 > if port 8000 is already used for local environment. The port might be changed to `8001`.
 
-<hr>
+
 <img src="screenshots/sf4.png" align="center" width="65%;">
-<hr>
+
 
 
 ## 3. Useful commands
