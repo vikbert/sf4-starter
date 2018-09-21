@@ -5,7 +5,7 @@ Quickstart with `Symfony 4` and my favorite development tools, such as `php-cs-f
 
 ## 1. Init Project
 ```
-bash run.sh
+bash init.sh <project_name>
 ```
 
 ## 2. Start Project
@@ -44,7 +44,7 @@ add the following definitions to composer.json `scripts` node.
     "scripts": {
         "test": "bin/phpunit tests/", 
         "stan": "vendor/bin/phpstan analyse src/", 
-        "fix": "vendor/bin/php-cs-fixer fix"
+        "fix": "vendor/bin/php-cs-fixer fix",
     }
 
 ```

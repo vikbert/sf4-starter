@@ -138,7 +138,7 @@
         "version": "3.0-dev"
     },
     "nikic/php-parser": {
-        "version": "v4.0.3"
+        "version": "v4.0.4"
     },
     "ocramius/proxy-manager": {
         "version": "2.1.1"
@@ -269,7 +269,7 @@
             "repo": "github.com/symfony/recipes",
             "branch": "master",
             "version": "3.3",
-            "ref": "87c585d24de9f43bca80ebcfd5cf5cb39445d95f"
+            "ref": "1717e67afa995e4f01a25ba9ae7aca5b2327bcaa"
         }
     },
     "symfony/http-foundation": {

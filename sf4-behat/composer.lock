@@ -5439,12 +5439,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/di.git",
-                "reference": "15e667668ba95e992edff1d7d7c1d2d8ca2105ff"
+                "reference": "46444a86ef30d12e36682dffb14d13438091c555"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/di/zipball/15e667668ba95e992edff1d7d7c1d2d8ca2105ff",
-                "reference": "15e667668ba95e992edff1d7d7c1d2d8ca2105ff",
+                "url": "https://api.github.com/repos/nette/di/zipball/46444a86ef30d12e36682dffb14d13438091c555",
+                "reference": "46444a86ef30d12e36682dffb14d13438091c555",
                 "shasum": ""
             },
             "require": {
@@ -5500,7 +5500,7 @@
                 "nette",
                 "static"
             ],
-            "time": "2018-09-16T20:07:19+00:00"
+            "time": "2018-09-18T09:54:16+00:00"
         },
         {
             "name": "nette/finder",
@@ -5758,12 +5758,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/utils.git",
-                "reference": "a6925613f48b9228d7cb6ed3fd0361b7d27f0267"
+                "reference": "28d4e3e44fd34680a09f7af1c83361814089402e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/utils/zipball/a6925613f48b9228d7cb6ed3fd0361b7d27f0267",
-                "reference": "a6925613f48b9228d7cb6ed3fd0361b7d27f0267",
+                "url": "https://api.github.com/repos/nette/utils/zipball/28d4e3e44fd34680a09f7af1c83361814089402e",
+                "reference": "28d4e3e44fd34680a09f7af1c83361814089402e",
                 "shasum": ""
             },
             "require": {
@@ -5829,20 +5829,20 @@
                 "utility",
                 "validation"
             ],
-            "time": "2018-09-13T01:22:01+00:00"
+            "time": "2018-09-18T10:24:12+00:00"
         },
         {
             "name": "nikic/php-parser",
-            "version": "v4.0.3",
+            "version": "v4.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "bd088dc940a418f09cda079a9b5c7c478890fb8d"
+                "reference": "fa6ee28600d21d49b2b4e1006b48426cec8e579c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/bd088dc940a418f09cda079a9b5c7c478890fb8d",
-                "reference": "bd088dc940a418f09cda079a9b5c7c478890fb8d",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/fa6ee28600d21d49b2b4e1006b48426cec8e579c",
+                "reference": "fa6ee28600d21d49b2b4e1006b48426cec8e579c",
                 "shasum": ""
             },
             "require": {
@@ -5880,7 +5880,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2018-07-15T17:25:16+00:00"
+            "time": "2018-09-18T07:03:24+00:00"
         },
         {
             "name": "php-cs-fixer/diff",
@@ -5985,12 +5985,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "6dff15c9c091c61c6d26e6e513259d89a5c11c9e"
+                "reference": "5a0a96178ea2bac5924612d12bf1721ff5337197"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/6dff15c9c091c61c6d26e6e513259d89a5c11c9e",
-                "reference": "6dff15c9c091c61c6d26e6e513259d89a5c11c9e",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/5a0a96178ea2bac5924612d12bf1721ff5337197",
+                "reference": "5a0a96178ea2bac5924612d12bf1721ff5337197",
                 "shasum": ""
             },
             "require": {
@@ -6046,7 +6046,7 @@
                 "MIT"
             ],
             "description": "PHPStan - PHP Static Analysis Tool",
-            "time": "2018-09-11T14:36:01+00:00"
+            "time": "2018-09-20T15:35:04+00:00"
         },
         {
             "name": "symfony/browser-kit",
