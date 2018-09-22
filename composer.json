@@ -57,6 +57,7 @@
         "symfony/polyfill-php56": "*"
     },
     "scripts": {
+        "server": "bin/console server:run",
         "test": "bin/phpunit tests/",
         "behat": "vendor/behat/behat/bin/behat --format pretty --colors --stop-on-failure",
         "stan": "bin/phpstan analyse src/",
