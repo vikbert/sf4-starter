@@ -1,4 +1,4 @@
-# A TDD Symfony 4 Starter Project for DDD**
+# A TDD Symfony 4 Starter Project for DDD
 
 ![Sf4-starter Homepage](screenshots/SF4-Starter.svg)
 
