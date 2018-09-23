@@ -1,6 +1,6 @@
-**A Minimal Symfony 4 Starter Project for TDD & DDD**
-
-
+**A TDD Symfony 4 Starter Project for DDD**
+[<img src="screenshots/SF4-Starter.svg" align="center" width="500" height="60">]()
+![Sf4-starter Homepage](screenshots/SF4-Starter.svg)
 ## Init the project
 Be sure that the essential tools such as `composer`, `yarn` or `npm` 
 are installed already.
@@ -22,6 +22,7 @@ $ composer server
 >  [OK] Server listening on http://127.0.0.1:8000
 
 Open URL `http://127.0.0.1:8000`
+
 
 ## Use Webpack to compile assets
 ```
