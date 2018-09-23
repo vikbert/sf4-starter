@@ -2,7 +2,7 @@ default:
     suites:
         default:
             contexts:
-                - FeatureContext:
+                -  App\Behat\Context\FeatureContext:
                     kernel: '@kernel'
 
     extensions:

@@ -47,6 +47,7 @@
     },
     "autoload-dev": {
         "psr-4": {
+            "App\\Behat\\Context\\": "features/bootstrap/",
             "App\\Tests\\": "tests/"
         }
     },
