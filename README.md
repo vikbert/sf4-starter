@@ -8,12 +8,13 @@ are installed already.
 ```
 $ git clone https://github.com/vikbert/sf4-starter.git MyApp
 $ cd MyApp
-$ composer update
-$ yarn install
-$ composer fix
-$ composer test
-$ composer behat
-$ composer stan
+$ composer update               # install/update php packages
+$ yarn install                  # install/update node packages
+$ composer fix                  # execute the code formatter
+$ composer test                 # execute the phpunit tests
+$ composer behat                # execute the behat test
+$ composer stan                 # static code analyse
+$ composer dump-autoload        # dump autoloader, if composer.json getting modified
 ```
 
 ## Start the website
