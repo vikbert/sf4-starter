@@ -1,5 +1,4 @@
 **A TDD Symfony 4 Starter Project for DDD**
-[<img src="screenshots/SF4-Starter.svg" align="center" width="500" height="60">]()
 ![Sf4-starter Homepage](screenshots/SF4-Starter.svg)
 ## Init the project
 Be sure that the essential tools such as `composer`, `yarn` or `npm` 
